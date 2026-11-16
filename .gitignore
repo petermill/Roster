@@ -1,0 +1,14 @@
+/Debug/
+# compilation Eclipse
+
+/Release/
+*.o
+*.d
+
+# sauvegardes et fichiers temporaires
+*.bak
+*.tmp
+*~
+
+# metadonnees locales d'Eclipse
+.settings/
